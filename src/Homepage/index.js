@@ -26,7 +26,7 @@ const Homepage = () => {
   };
 
   return (
-    <div className='bg-emerald-300 min-h-screen flex flex-col items-center p-6'>
+    <div className='bg-neutral-300 min-h-screen flex flex-col items-center p-6'>
       <div className='w-full max-w-4xl'>
         <h1 className='font-roboto font-extrabold text-4xl text-sky-600 text-center mb-8'>
           Real-Time Text Analysis
